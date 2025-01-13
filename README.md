@@ -27,9 +27,5 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/daniel-nashed/)
 
 ### 💻 Tech Stack:
-PyTorch Pandas NumPy
-AWS AmazonDynamoDB Postgres
-TypeScript Go Python Swift
-GraphQL Shell Script
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
