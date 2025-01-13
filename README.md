@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🤝 I’m looking for new opportunities as an AI/ML engineer (or software roles with focus on AI/ML) <br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniel-nashed/)
+[LinkedIn](https://www.linkedin.com/in/daniel-nashed/)
 
 ### 💻 Tech Stack:
 
