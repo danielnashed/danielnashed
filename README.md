@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 🤝 I’m looking for new opportunities as an AI/ML engineer (or software roles with focus on AI/ML) <br>
 
 ### 🌐 Socials:
-[LinkedIn] (https://www.linkedin.com/in/daniel-nashed/)
+[LinkedIn](https://www.linkedin.com/in/daniel-nashed/)
 
 ### 💻 Tech Stack:
 PyTorch Pandas NumPy
 AWS AmazonDynamoDB Postgres
 TypeScript Go Python Swift
 GraphQL Shell Script
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
