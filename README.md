@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I’m currently a Fullstack Software engineer (employee #10) at [Network Tree](https://www.networktree.app) , an early stage startup building a network productivity platform. <br>
-🗣 I co-founded a startup ([Oratio](https://ventures.jhu.edu/news/droply-fiesta-oratio-and-rectanav-win-the-judges-prize-at-pava-center-spark-showcase/)) to build an AI-powered app to translate American Sign Language (ASL) to English voice in real time. <br>
+🚀 I’m currently a Fullstack Software engineer (employee #10) at [Network Tree](https://www.networktree.app) , an early stage startup building a network productivity platform <br>
+🗣 I co-founded a startup ([Oratio](https://ventures.jhu.edu/news/droply-fiesta-oratio-and-rectanav-win-the-judges-prize-at-pava-center-spark-showcase/)) to build an AI-powered app to translate American Sign Language (ASL) to English voice <br>
 🤖 I am serving as Vice President of [Artificial Intelligence Society at Johns Hopkins](https://www.linkedin.com/company/hopai/) <br>
 🛠️ I worked as an AI Consultant at Johns Hopkins Carey Business School to build an ML pipeline to automate web scraping + clustering of signature documents <br>
 🎓 I will be finishing my MS in Computer Science (with focus on AI) from Johns Hopkins University in May 2025 <br>
